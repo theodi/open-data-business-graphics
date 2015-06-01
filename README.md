@@ -1,6 +1,6 @@
 ##**Open data means Open data means business: UK innovation across sectors and regions**
 
-This repository contains all the graphics in the Open Data Institute’s report [open data means business: UK innovation across sectors and regions.](http://theodi.org/open-data-means-business-uk-innovation-sectors-regions)
+This repository contains all the graphics in the Open Data Institute’s report [open data means business: UK innovation across sectors and regions.](http://theodi.org/open-data-means-business)
 
 All graphics are licensed under [Creative Commons - Attribution 4.0 (CC BY 4.0) licence] (https://creativecommons.org/licenses/by/4.0/). Full licence available here: [https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by/4.0/legalcode). 
 
